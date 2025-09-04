@@ -68,27 +68,27 @@ Valor estimado: a partir de € 2.500 por pessoa</p>
         </ul>
     <h2>Top Itineraries</h2>
     
-    <figure>
+   <figure>
       <a href="https://www.freecodecamp.org/learn" target="_blank">
       <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Jerusalém – Israel">
       </a>
       <figcaption>Destino espiritual e histórico, com locais sagrados como o Muro das Lamentações e o Santo Sepulcro.</figcapion>
     </figure>
     
-    <figure>
+   <figure>
       <a href="https://www.freecodecamp.org/learn" target="_blank">
       <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Gramado – Brasil">
       </a>
       <figcaption>Cidade charmosa na Serra Gaúcha, com clima europeu, ótima gastronomia e atrações como o Natal Luz.</figcapion>
     </figure>
     
-    <figure>
+   <figure>
       <a href="https://www.freecodecamp.org/learn" target="_blank">
       <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Roma – Itália">
       </a>
       <figcaption>Perfeita para quem ama história, arte e cultura, com ícones como o Coliseu, Vaticano e Fontana di Trevi.</figcapion>
     </figure>
     
-    </body>
+   </body>
   </html>
 
